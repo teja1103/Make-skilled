@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>6</td>
-    <td>Print Alcohol Detection using Alcohol Sensor</td>
+    <td>Monitor Alcohol Values using Alcohol Sensor</td>
     <td></td>
   </tr>
 </table>
@@ -42,6 +42,7 @@
 2. Light Sensor
 3. IR Sensor
 4. MQ3 Sensor
+5. Moisture Sensor
 
 # Softwares
 1. Arduino S/W - Arduino IDE 1.8.19 - www.arduino.cc
