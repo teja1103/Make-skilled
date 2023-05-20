@@ -8,7 +8,7 @@
   <tr>
     <td>1</td>
     <td>Printing Hello World</td>
-    <td><a href="https://github.com/teja1103/Make-skilled/blob/main/hello_world.ino">code repo</a></td>
+    <td><a href="https://github.com/teja1103/Make-skilled/blob/main/hello_world.ino">Code Repo</a></td>
   </tr>
   <tr>
     <td>2</td>
@@ -28,7 +28,7 @@
   <tr>
     <td>5</td>
     <td>Print Object Detection using IR Sensor</td>
-    <td></td>
+    <td><a href="https://github.com/teja1103/Make-skilled/blob/main/IR_sensor_use_to_print_values.ino">Code Repo</a></td>
   </tr>
   <tr>
     <td>6</td>
