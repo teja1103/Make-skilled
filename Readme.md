@@ -30,12 +30,18 @@
     <td>Print Object Detection using IR Sensor</td>
     <td></td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td>Print Alcohol Detection using Alcohol Sensor</td>
+    <td></td>
+  </tr>
 </table>
 
 # Components
 1. NodeMCU - ESP8266
 2. Light Sensor
 3. IR Sensor
+4. MQ3 Sensor
 
 # Softwares
 1. Arduino S/W - Arduino IDE 1.8.19 - www.arduino.cc
