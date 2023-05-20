@@ -39,13 +39,13 @@
 
 # Softwares
 1. Arduino S/W - Arduino IDE 1.8.19 - www.arduino.cc
-2. git S/W - git-scm.com
+2. git S/W - www.git-scm.com
 
 # Accounts
 1. www.makeskilled.com
 2. www.github.com
 3. www.thingspeak.com
-4. ai2.appinventor.mit.edu
+4. www.ai2.appinventor.mit.edu
 
 # ESP8266 Boards Manager Link
 https://arduino.esp8266.com/stable/package_esp8266com_index.json
