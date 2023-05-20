@@ -33,7 +33,7 @@
   <tr>
     <td>6</td>
     <td>Monitor Alcohol Values using Alcohol Sensor</td>
-    <td></td>
+    <td><a href="https://github.com/teja1103/Make-skilled/blob/main/alcohol_sensor_checking.ino">Code Repo</a></td>
   </tr>
   <tr>
     <td>7</td>
