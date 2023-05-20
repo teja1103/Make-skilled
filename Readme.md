@@ -13,12 +13,12 @@
   <tr>
     <td>2</td>
     <td>Built-In LED ON</td>
-    <td></td>
+    <td><a href="https://github.com/teja1103/Make-skilled/blob/main/built_in_led_on.ino">Code Repo</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Toggling Built-In LED</td>
-    <td></td>
+    <td><a href="https://github.com/teja1103/Make-skilled/blob/main/built_in_led_toggle.ino">Code Repo</a></td>
   </tr>
   <tr>
     <td>4</td>
