@@ -23,7 +23,7 @@
   <tr>
     <td>4</td>
     <td>Turn LED ON/OFF using Light Sensor</td>
-    <td></td>
+    <td><a href="https://github.com/teja1103/Make-skilled/blob/main/sensor_use_to_on_led.ino">Code Repo</a></td>
   </tr>
   <tr>
     <td>5</td>
