@@ -38,7 +38,7 @@
   <tr>
     <td>7</td>
     <td>Print Dry/Alert using Moisture Sensor</td>
-    <td></td>
+    <td><a href="https://github.com/teja1103/Make-skilled/blob/main/water_sensor_chceking.ino">Code Repo</a></td>
   </tr>
 </table>
 
