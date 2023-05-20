@@ -35,6 +35,11 @@
     <td>Monitor Alcohol Values using Alcohol Sensor</td>
     <td></td>
   </tr>
+  <tr>
+    <td>7</td>
+    <td>Print Dry/Alert using Moisture Sensor</td>
+    <td></td>
+  </tr>
 </table>
 
 # Components
