@@ -25,6 +25,11 @@
     <td>Turn LED ON/OFF using Light Sensor</td>
     <td></td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Print Object Detection using IR Sensor</td>
+    <td></td>
+  </tr>
 </table>
 
 # Components
